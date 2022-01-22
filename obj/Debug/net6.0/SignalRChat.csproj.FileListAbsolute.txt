@@ -24,3 +24,4 @@ C:\Users\bauti\source\2022github\singalrapp\SignalRChat\obj\Debug\net6.0\SignalR
 C:\Users\bauti\source\2022github\singalrapp\SignalRChat\obj\Debug\net6.0\ref\SignalRChat.dll
 C:\Users\bauti\source\2022github\singalrapp\SignalRChat\obj\Debug\net6.0\SignalRChat.pdb
 C:\Users\bauti\source\2022github\singalrapp\SignalRChat\obj\Debug\net6.0\SignalRChat.genruntimeconfig.cache
+C:\Users\bauti\source\2022github\singalrapp\SignalRChat\bin\Debug\net6.0\libman.json
